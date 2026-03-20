@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.env
+*.db
+
+# Flutter мусор (НЕ нужен)
+.dart_tool/
+.flutter-plugins
+build/
+pubspec.lock
